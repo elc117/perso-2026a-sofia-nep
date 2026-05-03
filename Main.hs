@@ -16,7 +16,7 @@ main = do
     if not (null args) && Prelude.head args == "test" then do
         Test.runTest
     else
-        scotty 8080 $ do
+        scotty 2626 $ do
             get "/info/:name" $ do
                 name <- pathParam "name"
                 obj <- liftIO $ getInfo name
