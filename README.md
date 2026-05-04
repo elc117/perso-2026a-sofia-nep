@@ -5,8 +5,8 @@ Curso: Sistemas de Informação
 
 ## 2. Tema/objetivo
 
-O servidor tem 2 endpoints:
-/info/:name, responde com os vários táxons de que a espécie :name faz parte.
+O servidor tem 2 endpoints:  
+/info/:name, responde com os vários táxons de que a espécie :name faz parte.  
 /closer?a=x&b=y&c=z, determina se a espécie y ou z é mais próxima à x. Na verdade isso é uma estimativa, pois uma comparação melhor precisaria de análises genômicas, não apenas comparação de táxons. Mesmo assim, a comparação é geralmente correta.
 
 A programação funcional facilita o reuso de fragmentos de lógica entre o teste e o servidor, além de facilitar o processo de *pattern matching* utilizado em alguns lugares.
