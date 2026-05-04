@@ -39,8 +39,8 @@ N/A
 
 ## 9. Referências e créditos
 
-https://stackoverflow.com/questions/7691374/io-and-maybe-monad-interaction
-https://stackoverflow.com/questions/2395697/what-is-lifting-in-haskell
-https://hackage-content.haskell.org/package/scotty-0.30/docs/Web-Scotty.html
-https://hackage.haskell.org/package/http-conduit-2.3.9/docs/Network-HTTP-Simple.html
+https://stackoverflow.com/questions/7691374/io-and-maybe-monad-interaction  
+https://stackoverflow.com/questions/2395697/what-is-lifting-in-haskell  
+https://hackage-content.haskell.org/package/scotty-0.30/docs/Web-Scotty.html  
+https://hackage.haskell.org/package/http-conduit-2.3.9/docs/Network-HTTP-Simple.html  
 https://ena-docs.readthedocs.io/en/latest/retrieval/programmatic-access/taxon-api.html
