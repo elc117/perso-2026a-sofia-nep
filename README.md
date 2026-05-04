@@ -1,6 +1,6 @@
 ## 1. Identificação
 
-Nome: Sofia Etchepare Daronco
+Nome: Sofia Etchepare Daronco  
 Curso: Sistemas de Informação
 
 ## 2. Tema/objetivo
